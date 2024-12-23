@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.virginia.edu/'>University of Virginia</a>. LLRSC30@gmail.com / zqj6pe@virginia.edu
 
 profile:
   align: right
