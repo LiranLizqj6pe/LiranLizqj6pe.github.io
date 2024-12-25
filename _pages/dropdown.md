@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing change
+title: outside pages
 nav: true
 nav_order: 8
 dropdown: true
