@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: I am honored to have worked with the following scholars, whose knowledge of the curriculum, research, and more has greatly benefited me in countless ways.
 nav: true
 nav_order: 7

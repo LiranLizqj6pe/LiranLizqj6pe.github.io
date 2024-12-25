@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: I have extensive teaching experience and have served as a teaching assistant for the courses listed below.
 nav: true
 nav_order: 6
