@@ -6,13 +6,13 @@ description: I have extensive teaching experience and have served as a teaching 
 nav: true
 nav_order: 6
 ---
-## University of Virginia
+### University of Virginia
 
-### Spring 2023
+#### Spring 2023
 
 **CS 2130 - Computer Systems and Organization 1** - *Teaching Assistant (Instructor: Robbie Hott)*
 
-### Spring 2024
+#### Spring 2024
 
 **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *Teaching Assistant (Instructor: Mark Floryan)*
 
@@ -20,7 +20,7 @@ nav_order: 6
 
 **MATH 4652 - Introduction to Abstract Algebra** - *Grader (Instructor: Peter Abramenko)*
 
-### Fall 2024
+#### Fall 2024
 
 **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *Head Teaching Assistant (Instructor: Mark Floryan)*
 
@@ -28,7 +28,7 @@ nav_order: 6
 
 **MATH 7751 - Algebra 1** - *Grader (Instructor: You Qi)*
 
-### Spring 2025 (Projected)
+#### Spring 2025 (Projected)
 
 **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *(Head) Teaching Assistant (Instructor: Mark Floryan)*
 

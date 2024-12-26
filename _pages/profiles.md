@@ -30,5 +30,8 @@ profiles:
     content: about_youqi.md
 
   - align: left
-    content: about_weikailin.md  
+    content: about_weikailin.md 
+    
+  - align: left
+    content: about_hungvietchu.md 
 ---

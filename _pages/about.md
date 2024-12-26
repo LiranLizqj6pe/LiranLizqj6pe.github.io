@@ -25,7 +25,9 @@ I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.
 
 ###### Nanjing Lixue Primary School (南京市力学小学): 2009.9-2015.6.
 
+
 ###### Nanjing Foreign Languages School (Middle School and High School, 南京外国语学校本部): 2015.9-2021.6.
+
 
 ###### University of Virginia: 2021.8-2025.5 (Expected).
 
