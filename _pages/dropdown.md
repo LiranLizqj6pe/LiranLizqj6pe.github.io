@@ -8,6 +8,6 @@ children:
   - title: Academic Notes
     permalink: /notes/
   - title: divider
-  - title: Publications
-    permalink: /publications/
+  - title:  Miscellaneous
+    permalink: /misc/
 ---
