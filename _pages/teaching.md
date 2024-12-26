@@ -6,11 +6,11 @@ description: I have extensive teaching experience and have served as a teaching 
 nav: true
 nav_order: 6
 ---
-University of Virginia
+# University of Virginia
 
-Spring 2023
+## Spring 2023
 
-CS 2130 - Computer Systems and Organization 1 - Teaching Assistant (Instructor: Robbie Hott)
+**CS 2130 - Computer Systems and Organization 1** - *Teaching Assistant (Instructor: Robbie Hott)*
 
 Spring 2024
 
