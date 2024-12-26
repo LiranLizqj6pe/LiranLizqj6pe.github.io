@@ -20,3 +20,15 @@ social: true # includes social icons at the bottom of the page
 My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I'm double majoring in Theoretical Mathematics and Computer Science at the University of Virginia. My main reseach interests are Geometric Group Theory and Cryptography. I study the word problem for groups, representation theory, oblivious data structures and algorithms, public key crypto systems, and automata theory.
 
 I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.wikipedia.org/wiki/Nanjing), People's Republic of China. 
+
+### Education
+
+#### Nanjing Lixue Primary School (南京市力学小学): 2009.9-2015.6.
+
+#### Nanjing Foreign Languages School (Middle School and High School, 南京外国语学校本部): 2015.9-2021.6.
+
+#### University of Virginia: 2021.8-2025.5 (Expected).
+
+**Bachelor of Arts, Mathematics (Graduate Preparation Track)** - *Distinguished Major Program Candidate, Advisor: Thomas Koberda*.
+
+**Bachelor of Arts, Computer Science** - *Distinguished Major Program Candidate, Advisor: Wei-Kai Lin*.
