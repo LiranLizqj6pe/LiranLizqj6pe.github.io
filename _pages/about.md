@@ -21,13 +21,13 @@ My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can als
 
 I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.wikipedia.org/wiki/Nanjing), People's Republic of China. 
 
-### Education
+##### Education
 
-#### Nanjing Lixue Primary School (南京市力学小学): 2009.9-2015.6.
+###### Nanjing Lixue Primary School (南京市力学小学): 2009.9-2015.6.
 
-#### Nanjing Foreign Languages School (Middle School and High School, 南京外国语学校本部): 2015.9-2021.6.
+###### Nanjing Foreign Languages School (Middle School and High School, 南京外国语学校本部): 2015.9-2021.6.
 
-#### University of Virginia: 2021.8-2025.5 (Expected).
+###### University of Virginia: 2021.8-2025.5 (Expected).
 
 **Bachelor of Arts, Mathematics (Graduate Preparation Track)** - *Distinguished Major Program Candidate, Advisor: Thomas Koberda*.
 
