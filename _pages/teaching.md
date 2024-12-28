@@ -20,14 +20,14 @@ nav_order: 6
 
   - **MATH 4652 - Introduction to Abstract Algebra** - *Grader (Instructor: Peter Abramenko)*
 
-**Fall 2024**
+- **Fall 2024**
   - **CS 3120 - Discrete Mathematics and Theory 2** - *Head Teaching Assistant (Instructor: Mark Floryan)*
 
   - **CS 4774 - Machine Learning** - *Teaching Assistant (Instructor: Rich Nguyen)*
 
   - **MATH 7751 - Algebra 1** - *Grader (Instructor: You Qi)*
 
-**Spring 2025 (Projected)**
+- **Spring 2025 (Projected)**
 
   - **CS 3120 - Discrete Mathematics and Theory 2** - *(Head?) Teaching Assistant (Instructor: Mark Floryan)*
 
