@@ -9,6 +9,7 @@ profile:
   image: IMG_6782.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>[cv](https://drive.google.com/file/d/1RyMfAfjlp0ejJw_iH07K3B1MDyU9auYE/view?usp=sharing)</p>
     <p>I don't have an office yet.</p>
     <p>852 W Main St</p>
     <p>Charlottesville, VA 22903</p>
