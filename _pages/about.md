@@ -9,7 +9,6 @@ profile:
   image: IMG_6782.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    [cv](https://drive.google.com/file/d/1RyMfAfjlp0ejJw_iH07K3B1MDyU9auYE/view?usp=sharing)
     <p>I don't have an office yet.</p>
     <p>852 W Main St</p>
     <p>Charlottesville, VA 22903</p>
@@ -18,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I'm double majoring in Theoretical Mathematics and Computer Science at the University of Virginia. My main reseach interests are Geometric Group Theory and Cryptography. I study the word problem for groups, representation theory, oblivious data structures and algorithms, public key crypto systems, and automata theory.
+My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I'm double majoring in Theoretical Mathematics and Computer Science at the University of Virginia. My main reseach interests are Geometric Group Theory and Cryptography. I study the word problem for groups, representation theory, oblivious data structures and algorithms, public key crypto systems, and automata theory. My detailed curriculum vitae can be obtained here: [CV](https://drive.google.com/file/d/1RyMfAfjlp0ejJw_iH07K3B1MDyU9auYE/view?usp=sharing).
 
 I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.wikipedia.org/wiki/Nanjing), People's Republic of China. 
 
