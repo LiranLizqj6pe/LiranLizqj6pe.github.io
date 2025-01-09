@@ -14,14 +14,14 @@ nav_order: 6
 
 - **Spring 2024**
 
-  - **CS 3120 - Discrete Mathematics and Theory 2** - *Teaching Assistant (Instructor: Mark Floryan)*
+  - **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *Teaching Assistant (Instructor: Mark Floryan)*
 
   - **MATH 3354 - Survey of Algebra** - *Grader (Instructor: You Qi)*
 
   - **MATH 4652 - Introduction to Abstract Algebra** - *Grader (Instructor: Peter Abramenko)*
 
 - **Fall 2024**
-  - **CS 3120 - Discrete Mathematics and Theory 2** - *Head Teaching Assistant (Instructor: Mark Floryan)*
+  - **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *Head Teaching Assistant (Instructor: Mark Floryan)*
 
   - **CS 4774 - Machine Learning** - *Teaching Assistant (Instructor: Rich Nguyen)*
 
@@ -29,8 +29,8 @@ nav_order: 6
 
 - **Spring 2025 (Projected)**
 
-  - **CS 3120 - Discrete Mathematics and Theory 2** - *(Head?) Teaching Assistant (Instructor: Mark Floryan)*
+  - **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *Head Teaching Assistant (Instructor: Mark Floryan)*
 
-  - **CS 3120 - Discrete Mathematics and Theory 2** - *Teaching Assistant (Instructor: Wei-Kai Lin)*
+  - **CS 3120 - Discrete Mathematics and Theory 2 (Theory of Computation)** - *Teaching Assistant (Instructor: Wei-Kai Lin)*
 
   - **MATH 3354 - Survey of Algebra** - *Grader (Instructor: You Qi)*
