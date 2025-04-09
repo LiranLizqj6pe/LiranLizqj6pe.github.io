@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.virginia.edu/'>University of Virginia</a>. <a href='mailto:LLRSC30@gmail.com'>LLRSC30@gmail.com</a> / <a href='mailto:zqj6pe@virginia.edu'>zqj6pe@virginia.edu</a>
+subtitle: <a href='https://www.virginia.edu/'>University of Virginia</a>. <a href='mailto:LLRSC30@gmail.com'>LLRSC30@gmail.com</a> / <a href='mailto:liranl@andrew.cmu.edu'>liranl@andrew.cmu.edu</a> / <a href='mailto:zqj6pe@virginia.edu'>zqj6pe@virginia.edu</a>
 
 profile:
   align: right
