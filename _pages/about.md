@@ -6,7 +6,7 @@ subtitle: <a href='https://www.virginia.edu/'>University of Virginia</a>. <a hre
 
 profile:
   align: right
-  image: IMG_6782.jpg
+  image: IMG_7171.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>I don't have an office yet.</p>
