@@ -31,7 +31,7 @@ I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.
 
 - **University of Virginia**: 2021.8-2025.5.
   - **Bachelor of Arts, Mathematics (Graduate Preparation Track)** - *Distinguished Major Program Candidate, Advisor: Thomas Koberda*.
-  - **Bachelor of Arts, Computer Science** - *Distinguished Major Program Candidate, Advisor: Wei-Kai Lin*.
+  - **Bachelor of Arts with High Distinction, Computer Science** - *Distinguished Major Program, Advisor: Wei-Kai Lin*.
 
 
 - **Carnegie Mellon University, School of Computer Science**: 2025.8-2026.12 (expected).
