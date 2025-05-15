@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I'm double majoring in Theoretical Mathematics and Computer Science at the University of Virginia. My main reseach interests are Geometric Group Theory and Cryptography. I study the word problem for groups, representation theory, oblivious data structures and algorithms, public key crypto systems, and automata theory. My detailed [CV](https://drive.google.com/file/d/1RyMfAfjlp0ejJw_iH07K3B1MDyU9auYE/view?usp=sharing) can be obtained here.
+My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I’m an incoming MSCS student at the [School of Computer Science, Carnegie Mellon University](https://www.cs.cmu.edu/). My primary research interest lies in the mathematical foundations of cryptography, especially at the intersection of cryptography and geometric group theory. I also explore broader topics in theoretical computer science, cryptography, and computational algebraic topology. My detailed CV can be obtained [here](https://drive.google.com/file/d/1RyMfAfjlp0ejJw_iH07K3B1MDyU9auYE/view?usp=sharing).
 
 I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.wikipedia.org/wiki/Nanjing), People's Republic of China. 
 
