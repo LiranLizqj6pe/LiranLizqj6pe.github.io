@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.virginia.edu/'>University of Virginia</a>. <a href='mailto:LLRSC30@gmail.com'>LLRSC30@gmail.com</a> / <a href='mailto:liranl@andrew.cmu.edu'>liranl@andrew.cmu.edu</a> / <a href='mailto:zqj6pe@virginia.edu'>zqj6pe@virginia.edu</a>
+subtitle: <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. <a href='mailto:liranl@cs.cmu.edu'>liranl@cs.cmu.edu</a>
 
 profile:
   align: right
@@ -37,3 +37,14 @@ I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.
 
 - **Carnegie Mellon University, School of Computer Science**: 2025.8-2026.12 (expected).
   - **Master of Science, Computer Science** - *MSCS thesis track*.
+
+##### Contact
+
+- **Email**
+  - **CMU Related**: liranl@andrew.cmu.edu / @cs.cmu.edu.
+  - **UVA Related**: zqj6pe@virginia.edu.
+  - **Others**: llrsc30@gmail.com.
+
+- **Phone**
+  - **USA**: +1 (434)-422-2662.
+  - **China**: +86 (025)-137-7077-3348.
