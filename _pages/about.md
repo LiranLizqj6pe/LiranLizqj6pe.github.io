@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>I don't have an office yet.</p>
-    <p>852 W Main St</p>
-    <p>Charlottesville, VA 22903</p>
+    <p>5000 Forbes Ave</p>
+    <p>Pittsburgh, PA 15213, United States</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
