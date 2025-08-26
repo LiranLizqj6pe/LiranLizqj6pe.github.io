@@ -17,9 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I’m an incoming MSCS student at the [School of Computer Science, Carnegie Mellon University](https://www.cs.cmu.edu/). My primary research interest lies in the mathematical foundations of cryptography, especially at the intersection of cryptography and geometric group theory. I also explore broader topics in theoretical computer science, cryptography, quantum computing, and computational algebraic topology. My detailed CV can be obtained [here](https://drive.google.com/file/d/1lSIePwUWZx8URXpBVriBEfhiGSKJoIQj/view?usp=sharing).
+My name is Liran Li (simplified Chinese: 李[Li] 栎然[Liran]), but you can also call me Stephen. I’m an MSCS student at the [School of Computer Science, Carnegie Mellon University](https://www.cs.cmu.edu/), working with [Aayush Jain](https://sites.google.com/view/aayushjain/home). My primary research interest lies in the foundations of cryptography. I also explore broader topics in theoretical computer science, quantum computing, and computational algebraic topology. My detailed CV can be obtained [here](https://drive.google.com/file/d/1lSIePwUWZx8URXpBVriBEfhiGSKJoIQj/view?usp=sharing). I completed my undergraduate studies at [the University of Virginia](https://www.virginia.edu/), where I was an Echols Scholar and had the privilege of working with [Thomas Koberda](https://sites.google.com/view/koberdat) and [Wei-Kai Lin](https://weikailin.github.io/) as a Distinguished Major in both Mathematics and Computer Science.
 
-I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.wikipedia.org/wiki/Nanjing), People's Republic of China. 
+I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.wikipedia.org/wiki/Nanjing), People's Republic of China. I also met my girlfriend, Tianshu Huang, there at our shared alma mater: Nanjing Foreign Languages School.
 
 ##### Education
 
