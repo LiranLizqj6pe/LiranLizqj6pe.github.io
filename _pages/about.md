@@ -43,8 +43,3 @@ I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.
 - **Email**
   - **CMU Related**: liranl@andrew.cmu.edu / @cs.cmu.edu.
   - **UVA Related**: zqj6pe@virginia.edu.
-  - **Others**: llrsc30@gmail.com.
-
-- **Phone**
-  - **USA**: +1 (434)-422-2662.
-  - **China**: +86 (025)-137-7077-3348.
