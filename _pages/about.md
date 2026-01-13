@@ -40,8 +40,3 @@ I was born and raised in [Nanjing city (simplified Chinese: 南京)](https://en.
 - **Carnegie Mellon University, School of Computer Science**: 2025.8-2026.12 (expected).
   - **Master of Science, Computer Science** - *MSCS thesis track*.
 
-##### Contact
-
-- **Email**
-  - **CMU Related**: liranl@andrew.cmu.edu / @cs.cmu.edu.
-  - **UVA Related**: zqj6pe@virginia.edu.
